@@ -1,2 +1,2 @@
 # hello-world
-RTFM
+Just doing my duty to RTFM.
